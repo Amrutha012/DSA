@@ -1,6 +1,6 @@
-# 21 Days DSA Challenge 🚀
+# Programming to DSA 🚀
 
-This repository contains my solutions and learnings from the **21-Day Data Structures & Algorithms (DSA) Challenge**.  
+This repository contains my solutions and learnings from the **Programming to DSA**.  
 I am solving problems every day to build a strong foundation in programming and improve my logic-building skills.
 
 ---
