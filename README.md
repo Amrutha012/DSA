@@ -263,6 +263,110 @@ This self-test boosted my confidence 💪 and proved that I’m ready to tackle 
 
 ---
 
+# 🐍 Python OOP Concepts – Practice Programs
+
+This repository contains multiple Python programs that demonstrate all the core **Object-Oriented Programming (OOP)** concepts in a simple and practical manner.  
+It is created mainly for **learning purposes**, **practice**, and **technical interview preparation**.
+
+---
+
+## 📚 Concepts Covered
+
+### 1️⃣ Class & Object Basics
+- Explains what a class and an object are
+- Shows the difference between class variables and instance variables
+- Demonstrates how changes affect individual objects
+
+---
+
+### 2️⃣ Constructor (`__init__`)
+- Used to initialize data when an object is created
+- Helps store values like name, ID, balance, marks, etc.
+- Makes each object unique with its own data
+
+---
+
+### 3️⃣ Encapsulation
+- Protects data using private variables
+- Access to data is controlled using getter and setter methods
+- Prevents direct modification of sensitive information
+
+---
+
+### 4️⃣ Abstraction
+- Implemented using abstract base classes
+- Defines what methods a class must have, without implementation
+- Improves security and hides internal logic
+
+**Example use case:**  
+ATM system with withdraw, deposit, and balance checking features
+
+---
+
+### 5️⃣ Inheritance
+- One class acquires properties and methods of another class
+- Promotes code reusability
+- Reduces duplication
+
+**Example use case:**  
+Parent–Child relationship where the child inherits behavior from the parent
+
+---
+
+### 6️⃣ Polymorphism
+- Same method name behaves differently based on input
+- Achieved using default arguments
+- Improves flexibility in program design
+
+---
+
+## 🧩 Mini Applications Included
+
+### 📌 Student Report Card System
+- Stores student details
+- Adds subjects and marks
+- Calculates total marks
+- Displays a formatted report card
+
+---
+
+### 📌 ATM Application
+- Allows withdrawal and deposit
+- Checks account balance
+- Uses abstraction for security
+
+---
+
+### 📌 Hotel Payment System
+- Supports Card, UPI, and Wallet payments
+- Validates user input
+- Simulates real-time payment processing
+
+---
+
+## ▶️ How to Run
+
+1. Make sure Python is installed on your system  
+2. Clone this repository or download the files  
+3. Run the Python files using the Python interpreter
+
+---
+
+## 🛠 Requirements
+
+- Python 3.x
+- No external libraries required
+
+---
+
+## 🎯 Purpose
+
+- Strengthen Python OOP fundamentals
+- Understand real-world use cases
+- Prepare for coding interviews and placements
+- Build confidence in object-oriented design
+
+---
 ## 🚀 How to Run
 
 ```bash
